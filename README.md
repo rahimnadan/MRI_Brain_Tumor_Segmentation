@@ -19,7 +19,7 @@ This project aims to segment brain tumors in MRI images using YOLOv7, a state-of
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your_username/mri_brain_tumor_segmentation.git
+   git clone https://github.com/rahimnadan/mri_brain_tumor_segmentation.git
 
 ### Training
 
